@@ -1,4 +1,4 @@
-# WebMonitor
+# WebScrapper
 
 A personal web monitoring app that tracks changes to URLs you care about and generates AI-powered summaries using Groq (Llama 3.1).
 
